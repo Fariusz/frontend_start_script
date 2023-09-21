@@ -4,7 +4,7 @@ import time
 time.sleep(5)
 
 servers = {
-    9000 : "oneHR-app",
+    9000 : "name-app",
     8080 : "keycloak",
     5432 : "postgres",
     5050 : "pg-admin",
